@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Agorthi0509
 - 👀 I’m interested in travelling.
-- 🌱 I’m currently learning Backend development thorugh Spring boot.
+- 🌱 I’m currently taking a course in Backend specialization and working as a Data Engineering Analyst at Accenture.
 - 💞️ I’m looking to collaborate on Projects which can help me to grow in my career.
 - 📫 How to reach me Mail id: aditya.gorti217@gmail.com
 - ⚡ Fun fact: Devin is scary!
